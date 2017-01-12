@@ -1,3 +1,5 @@
+# bu program linkini verdiğiniz dosyalarda indirme yapmayı sağlıyor. 
+
 
 #!/bin/bash
 
